@@ -1,6 +1,7 @@
 # GCP-FINAL-TASK
 - Hey everyone ! i hope everything is okey :)
-- Today i had deployed a python app using terraform, docker and GCP services
+- Today i had deployed a python app using terraform, docker and GCP services 
+- This app created & Dockerized with a Dockerfile & some structure files, u can check them from [here](https://github.com/SheplX/GCP-FINAL-TASK/tree/main/DevOps-Challenge-Demo-Code-master)
 - Sure u can try it, so lets start :D
 
 # Requirements :
