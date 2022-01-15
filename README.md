@@ -28,7 +28,7 @@ terraform apply
 - Ssh the private instance using iap tunnel connection
 - Try to connect the created cluster inside it
 
-# Step 3 : Setting up kubectl tool & applying deployment files & setting up ur application :
+# Step 3 : Setting up kubectl tool & applying deployment files & launching ur application :
 
 - First u need to install kubectl at ur new machine using this command :
 ```
@@ -36,7 +36,7 @@ sudo apt-get install kubectl
 ```
 - Move to [Deploymet-Files](https://github.com/SheplX/GCP-FINAL-TASK/tree/main/Deploymet-Files) and apply all the files there using this command :
 ```
-kubectl apply -f < file_name>
+kubectl apply -f <file_name>
 ```
 - U can check if everything is ok and running by using this command :
 ```
@@ -47,7 +47,8 @@ watch kubectl get all
 # Grats & Cheers !
 
 - [Here](https://github.com/SheplX/GCP-FINAL-TASK/tree/main/ScreenShots) is some screenshots during my project steps, plz feel free to check them.
-- Enjoy ;)
+
+# Enjoy ;)
 
 ![Image](https://github.com/SheplX/GCP-FINAL-TASK/blob/main/ScreenShots/Screenshot%20from%202022-01-15%2004-59-24.png)
 
