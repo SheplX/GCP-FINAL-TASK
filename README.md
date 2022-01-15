@@ -48,7 +48,5 @@ watch kubectl get all
 
 - [Here](https://github.com/SheplX/GCP-FINAL-TASK/tree/main/ScreenShots) is some screenshots during my project steps, plz feel free to check them.
 
-# Enjoy ;)
-
 ![Image](https://github.com/SheplX/GCP-FINAL-TASK/blob/main/ScreenShots/Screenshot%20from%202022-01-15%2004-59-24.png)
 
