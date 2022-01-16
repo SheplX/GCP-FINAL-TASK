@@ -35,7 +35,7 @@ terraform apply
 ```
 sudo apt-get install kubectl
 ```
-- Move to [Deploymet-Files](https://github.com/SheplX/GCP-FINAL-TASK/tree/main/Deploymet-Files) and apply all the files there using this command :
+- Move to [Deployment-Files](https://github.com/SheplX/GCP-FINAL-TASK/tree/main/Deploymet-Files) and apply all the files there using this command :
 ```
 kubectl apply -f <file_name>
 ```
