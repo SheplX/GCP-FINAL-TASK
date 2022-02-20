@@ -1,3 +1,5 @@
+![Image](https://github.com/SheplX/GCP-FINAL-TASK/blob/main/ScreenShots/The%20Docker%20for%20DevOps%20course_%20From%20development%20to%20production.jpeg)
+
 # GCP-FINAL-TASK
 - Hey everyone ! i hope everything is okey :)
 - Today i had deployed a python app using terraform, docker and GCP services 
