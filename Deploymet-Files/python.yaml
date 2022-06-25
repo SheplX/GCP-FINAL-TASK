@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: application-py
-        image: shepl/python_app
+        image: shepl/python_ap
         ports:
           - containerPort: 8000
         imagePullPolicy: Always
